@@ -1,5 +1,4 @@
-(
-n - More Classes and Objects
+# 0x08. Python - More Classes and Objects
 
 ## Description
 What you should learn from this project:
@@ -73,3 +72,6 @@ How to use the getattr function
 * Write a class Rectangle that defines a rectangle by: (based on 8-rectangle.py)
 
 ---
+
+## Author
+* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
